@@ -13,7 +13,7 @@
 
 <br>
 
-#### <a href="https://www.linkedin.com/in/chris--sanchez/">Personal Website</a>
+#### <a href="https://chris-sanchez-dev.netlify.app/">Personal Website</a>
 
 <br>
 
