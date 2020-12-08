@@ -32,4 +32,4 @@
 
 ![sanchito59's github stats](https://github-readme-stats.vercel.app/api?username=sanchito59&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 
-![sanchito59's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchito59&layout=compact&hide_border=true)
+![sanchito59's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchito59&layout=compact&hide=html&hide_border=true)
