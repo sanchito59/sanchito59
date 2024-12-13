@@ -6,27 +6,10 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/chris--sanchez/"><img height="30" src="https://github.com/sanchito59/sanchito59/blob/master/linkedin.png?raw=true"/></a>
-<a href="https://twitter.com/i/lists/1316210473084219393?s=09"><img height="30" src="https://github.com/sanchito59/sanchito59/blob/master/twitter.png?raw=true"></a>
 <a href="mailto:c.sanch7@gmail.com"/><img height="30" src="https://github.com/sanchito59/sanchito59/blob/master/mail.png?raw=true"/></a>
 
-### I love digging into both the backend architecture of an application as well as the frontend user interface, joining the two into a complete experience. I work with JavaScript ES6, React, Ruby on Rails, HTML5/CSS3, PostgreSQL, GraphQL, and Apollo daily. As well, I work with the MERN stack. I am an agile learner, quick to adapt, and endlessly curious and engaged with learning and growing. 
-
 <br>
-
-#### <a href="https://chris-sanchez-dev.netlify.app/">Personal Website</a>
-
 <br>
-
-<details>
- <summary><strong>🌱 What I am Learning Lately 🌱</strong></summary>
- <ul>
-   <li>TypeScript 😃</li>
-   <li>React Native development</li>
-   <li>Next.js</li>
-   <li>Test Driven Development with Jest</li>
-   <li>Strengthening software/system design best practices</li>
-  </ul>
-</details>
 
 <br>
 
